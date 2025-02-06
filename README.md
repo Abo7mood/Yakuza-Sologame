@@ -56,5 +56,5 @@ Currently still in development, this game is shaping up to be an **exciting and 
 ## 🎮 Demo 🎮
 --------------------------
 
-you can find the demo in the Yakuza Multiplayer File
+you can find the demo in the (Yakuza Multiplayer) File
 
