@@ -2,7 +2,8 @@
 --------------------------
 Welcome to **NFT Yakuza Multiplayer Game**! 🎮 This is an **action-packed multiplayer NFT game** centered around the **Yakuza underworld**. Players will engage in **strategic battles, missions, and reputation-building** as they navigate the dangerous streets of a futuristic cyberpunk Japan.
 
-![Game Preview](file-Hr1fzrkrcbF5Z7bGULBYSa)
+![Game Preview](https://github.com/user-attachments/assets/8a218943-7624-485a-bfa9-2d9ebbd870e9)
+
 
 ## 🔥 Freelancing Project 🔥
 This game is currently under development as a **freelancing project** for a client who wanted a **unique NFT-based multiplayer experience** set in a cyberpunk Yakuza world.
